@@ -1,0 +1,15 @@
+langchain
+langchain-huggingface
+langchain-groq
+langchain-community
+langgraph
+chromadb
+rank-bm25
+faiss-cpu
+numpy
+python-dotenv
+typing-extensions
+pydantic<2.0.0
+beautifulsoup4
+tiktoken
+langchain-google-genai
